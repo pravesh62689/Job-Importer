@@ -169,8 +169,15 @@ This allows the system to scale beyond current feed size and handle millions of 
 
 ### 1) UI of Admin
 
+<img width="1362" height="572" alt="Screenshot 2026-01-28 165915" src="https://github.com/user-attachments/assets/ff433370-3068-4711-83c7-fcdb07f3b2a1" />
 ### 2) UI after clicking on `Trigger Import`
+
+<img width="467" height="1037" alt="Screenshot 2026-01-28 170106" src="https://github.com/user-attachments/assets/8457e698-293c-46a6-9d48-46d5b4cf08b4" />
 
 ### 3) UI after clicking on `View Import Hostory`
 
+<img width="709" height="297" alt="Screenshot 2026-01-28 165941" src="https://github.com/user-attachments/assets/2946e84d-e080-4ed6-9d96-8872893cfb5d" />
+
 ### 4) View of Terminal
+
+<img width="1360" height="593" alt="Screenshot 2026-01-28 170035" src="https://github.com/user-attachments/assets/c834c06e-1cfc-434d-bdc8-11dc2678391b" />
