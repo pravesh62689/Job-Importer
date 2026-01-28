@@ -26,7 +26,7 @@ export default function Home() {
 
         <Link href="/import-logs">
           <button className="btn secondary" style={{ marginTop: 16 }}>
-            Admin View for Import History
+            View Import History
           </button>
         </Link>
       </div>
