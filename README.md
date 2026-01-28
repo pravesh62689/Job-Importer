@@ -163,7 +163,7 @@ This allows the system to scale beyond current feed size and handle millions of 
 - Redis memory policy is set to `noeviction`
 - This is an internal admin tool, not a public-facing UI
 
-### Note: I was not able to deploy this application on render as it only provide one freemium service and i currently have 1 running service.
+### Note: `I was not able to deploy this application on render as it only provide one freemium service and i currently have 1 running service.`
 
 ## Image Preview
 
