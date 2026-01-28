@@ -64,7 +64,7 @@ Notes:
 ### 3. Start Backend API
 
 ```bash
-node index.js
+npm run dev
 ```
 
 This starts the Express API server on port 3001.
