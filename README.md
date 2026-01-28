@@ -162,3 +162,15 @@ This allows the system to scale beyond current feed size and handle millions of 
 - Job uniqueness is determined by an external job ID
 - Redis memory policy is set to `noeviction`
 - This is an internal admin tool, not a public-facing UI
+
+### Note: I was not able to deploy this application on render as it only provide one freemium service and i currently have 1 running service.
+
+## Image Preview
+
+### 1) UI of Admin
+
+### 2) UI after clicking on `Trigger Import`
+
+### 3) UI after clicking on `View Import Hostory`
+
+### 4) View of Terminal
